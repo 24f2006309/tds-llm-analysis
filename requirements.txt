@@ -1,0 +1,15 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+
+requests==2.31.0
+pandas==2.2.0
+numpy==1.26.4
+
+playwright==1.41.2
+
+pdfminer.six==20231228
+pdfplumber==0.11.0
+
+groq==0.11.0
+
+python-multipart==0.0.9
